@@ -1,0 +1,26 @@
+[
+    {
+        "name": "dheraj",
+        "age": 20,
+        "email": "djk@gmail.com",
+        "pin": 8181,
+        "AccountNo.": "1234",
+        "Balance": 0
+    },
+    {
+        "name": "Vivek P",
+        "age": 21,
+        "email": "vivek@gmail.com",
+        "pin": 1010,
+        "AccountNo.": "CA&138g",
+        "Balance": 2000
+    },
+    {
+        "name": "Anshul",
+        "age": 20,
+        "email": "ans@gmail.com",
+        "pin": 1010,
+        "AccountNo.": "5%5dSN7",
+        "Balance": 5000
+    }
+]
