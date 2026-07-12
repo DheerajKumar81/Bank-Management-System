@@ -6,55 +6,7 @@
 A lightweight, interactive Bank Management System built with Python and Streamlit. This application provides a clean web interface for users to create accounts, manage their finances, and securely update their details using file-based JSON storage.
 ---
 
-<h2>✨ Features</h2>
-
-<ul>
-    <li>✅ <strong>Create Account</strong>
-        <ul>
-            <li>Register a new bank account with secure 4-digit PIN authentication.</li>
-            <li>Automatically generates a unique account number.</li>
-        </ul>
-    </li>
-
-<li>💰 <strong>Deposit & Withdraw</strong>
-    <ul>
-        <li>Deposit money securely.</li>
-        <li>Withdraw funds with balance validation.</li>
-        <li>Prevents insufficient balance transactions.</li>
-    </ul>
-</li>
-
-<li>👤 <strong>Account Details</strong>
-    <ul>
-        <li>View account information.</li>
-        <li>Check current account balance.</li>
-    </ul>
-</li>
-
-<li>✏️ <strong>Update Profile</strong>
-    <ul>
-        <li>Update Name.</li>
-        <li>Update Email.</li>
-        <li>Change PIN.</li>
-        <li>Account Number, Age, and Balance remain immutable.</li>
-    </ul>
-</li>
-
-<li>🗑️ <strong>Delete Account</strong>
-    <ul>
-        <li>Permanently delete an account from the system.</li>
-    </ul>
-</li>
-
-<li>🔒 <strong>Secure Storage</strong>
-    <ul>
-        <li>User data is stored locally in <code>data.json</code>.</li>
-    </ul>
-</li>
-
-</ul>
-
----
+## ✨ Features * **Create Account:** Register a new bank account with secure 4-digit PIN authentication. Automatically generates a unique, randomized Account Number. * **Deposit & Withdraw:** Securely add or remove funds from your account with real-time balance updates. Includes limits and insufficient funds validation. * **Account Details:** View your current profile information and account balance at any time. * **Update Profile:** Modify your name, email, or PIN seamlessly while keeping core data (Account Number, Balance, Age) immutable. * **Delete Account:** Permanently remove your account and data from the system. * **Secure Storage:** All user data is securely stored and retrieved using a local data.json file.
 
 <h2>🛠️ Tech Stack</h2>
 
