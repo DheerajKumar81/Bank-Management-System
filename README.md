@@ -2,6 +2,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B) 
 ![License](https://img.shields.io/badge/License-MIT-green) 
+
 A lightweight, interactive Bank Management System built with Python and Streamlit. This application provides a clean web interface for users to create accounts, manage their finances, and securely update their details using file-based JSON storage.
 ---
 
