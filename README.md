@@ -271,13 +271,4 @@ Developed as a Python project to demonstrate:
 * Basic Banking System Design
 
 ---
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-
-
 </div>
